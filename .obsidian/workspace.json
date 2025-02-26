@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "6c6ad4e5b0b38f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "7287dc0e2e852460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "034b17bf4de0cbc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 📚 Androiud_UI_Jetpack_Compose/2.2 🎨Компоненты Jetpack Compose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 🎨Компоненты Jetpack Compose"
+            }
+          },
+          {
+            "id": "02de117ed2b485c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 👨🏻‍💻Architectures/5.3 🚨 DI_Dagger_Koin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 🚨 DI_Dagger_Koin"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7b48c85389ef05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2862259c153d592d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5399a6ecffcb3270",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e4cd891013674d70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "тему",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "225fc4fada4475c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "206e403647e4e2e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "304dca2059668689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef45afc25cd41a53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 📚 Androiud_UI_Jetpack_Compose/2.3 📐Расположение элементов (Layout).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.3 📐Расположение элементов (Layout)"
+            }
+          },
+          {
+            "id": "ea65b97aaea06c54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 📲Final/6. 🏆 Финальный проект курса Android-разработчик.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6. 🏆 Финальный проект курса Android-разработчик"
+            }
+          },
+          {
+            "id": "a174b09e9eaea410",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6cd1c3dd99743c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 📲Final/6. 🏆 Финальный проект курса Android-разработчик.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6. 🏆 Финальный проект курса Android-разработчик"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e4cd891013674d70",
+  "lastOpenFiles": [
+    "4 🌍 Multithreading_networking/4.3 🌐Сеть и работа с API.md",
+    "3 🗂️Хранение данных/3.6 🗃️ Data Store.md",
+    "3 🗂️Хранение данных/3.3 🗂️ Room.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.8 🔄 Github и Github Desktop.md",
+    "1 🐛 HelloWorld/1.3 🌟 Практический урок 4 Далее добавление кнопки и обработка нажатий.md",
+    "1 🐛 HelloWorld/1.2 ✏️ Практический урок 2 Меня зовут Android.md",
+    "1 🐛 HelloWorld/1.1.2 🚀Практика для первого приложения.md",
+    "5 👨🏻‍💻Architectures/5.5 📚Оптимизация производительности.md",
+    "3 🗂️Хранение данных/3.4 💼 Защита данных.md",
+    "6 📲Final/6. 🏆 Финальный проект курса Android-разработчик.md",
+    "5 👨🏻‍💻Architectures/5.4 🔥 Тесты Android.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.5 🌈  Темы и стилиMaterial Design 3 (MD3).md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.3 📐Расположение элементов (Layout).md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.2 🎨Компоненты Jetpack Compose.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.7 🌟 Анимации в Jetpack Compose.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.1 🎯 Jetpack Compose.md",
+    "5 👨🏻‍💻Architectures/5.3 🚨 DI_Dagger_Koin.md",
+    "5 👨🏻‍💻Architectures/5.2 📊 Паттерны разработки MVC MVP  MVVM MVI/5.2 📊 Паттерны разработки MVC MVP  MVVM MVI.md",
+    "5 👨🏻‍💻Architectures/5.2 📊 Паттерны разработки MVC MVP  MVVM MVI/Архитектуры приложений/Примеры.md",
+    "3 🗂️Хранение данных/3.0 Модуль 3. 📋Хранение данных и их защита.md",
+    "4 🌍 Multithreading_networking/4.1 🛢️ Корутины.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.6 🧭 Навигация и меню.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/2.4📺 Modifier Модификаторы для настройки внешнего вида и пользовательские компоненты.md",
+    "2.2.2 Состояния (State) в Jetpack Compose. Обработка событий..md",
+    "2 📚 Androiud_UI_Jetpack_Compose/📝 Практика/2.0.1📱Первое приложение с использованием Jetpack Compose.md",
+    "2 📚 Androiud_UI_Jetpack_Compose/📝 Практика/2.5.0 🌌 Погружаемся в мир Android Jetpack Compose и Material Design 3.md",
+    "Pasted image 20250226100109.png",
+    "Pasted image 20250226090609.png",
+    "Снимок экрана 2024-11-22 025724.png",
+    "Снимок экрана 2024-11-22 021710.png",
+    "Pasted image 20250208070237.png",
+    "Pasted image 20250226085744.png",
+    "2 📚 Androiud_UI_Jetpack_Compose/Column.png",
+    "2 📚 Androiud_UI_Jetpack_Compose/untitled-5.gif",
+    "Pasted image 20250219095721.png",
+    "Pasted image 20250219095409.png",
+    "Untitled 1.canvas",
+    "6 📲Final",
+    "Untitled"
+  ]
+}
